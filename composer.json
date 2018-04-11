@@ -1,0 +1,12 @@
+{
+  "name": "johncorrelli/api-blueprint-compiler",
+  "type": "library",
+  "description": "Parses your source code and compiles api blueprint documentation.",
+  "homepage": "https://teamgantt.com",
+  "authors": [
+    {
+      "name": "John Correlli",
+      "email": "johncorrelli@gmail.com"
+    }
+  ]
+}
