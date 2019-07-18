@@ -2,7 +2,7 @@
 
 # SET DEFAULT VALUES
 RESET=1
-DIRECTORY=$(PWD)
+DIRECTORY=$(pwd)
 SEARCH="./*"
 OUTPUT="/dev/null"
 
